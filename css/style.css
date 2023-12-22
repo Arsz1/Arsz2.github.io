@@ -232,7 +232,7 @@ button {
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
-    background-image: url(banner-bg.png);
+    background-image: url(.../banner-bg.png);
 }
 
 .header_main{
