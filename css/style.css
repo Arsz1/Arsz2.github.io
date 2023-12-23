@@ -307,6 +307,11 @@ button {
     float: left;
     padding-bottom: 75px;
 }
+
+.map_section {
+ padding-top: 200px;
+}
+
 .discover_text{
     width: 100%;
     float: left;
