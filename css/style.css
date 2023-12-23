@@ -242,7 +242,6 @@ button {
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
-    background-image: url(../images/header-bg.png);
 }
 .bg-light {
     background-color: transparent !important;
