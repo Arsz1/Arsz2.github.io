@@ -313,6 +313,12 @@ button {
  padding-top: 250px;
 }
 
+.mapborder {
+  width: 100%;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
 .discover_text{
     width: 100%;
     float: left;
