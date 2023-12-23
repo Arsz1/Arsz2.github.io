@@ -242,6 +242,7 @@ button {
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
+    background-color: #ffffff;
 }
 .bg-light {
     background-color: transparent !important;
