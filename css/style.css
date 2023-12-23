@@ -1166,3 +1166,7 @@ textarea.massage_box::placeholder {
     color: #33d0f2;
 }
 
+.fa-solid,
+.fa-regular {
+ padding-right: 5px;
+}
