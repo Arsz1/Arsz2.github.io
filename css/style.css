@@ -232,7 +232,7 @@ button {
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
-    background-color: #ffffff;
+    background-color: #171717;
 }
 
 .header_main{
@@ -242,7 +242,7 @@ button {
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
-    background-color: #777777;
+    background-color: #171717;
 }
 .bg-light {
     background-color: transparent !important;
