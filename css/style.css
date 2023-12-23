@@ -188,7 +188,7 @@ img {
 }
 
 .form-control:focus {
-     border-color: #ffffff !important;
+     border-color: #fff !important;
      box-shadow: 0 0 0 .2rem rgba(255, 255, 255, .25);
 }
 
@@ -252,7 +252,7 @@ button {
     float: left;
 }
 .navbar-light .navbar-nav .nav-link {
-    color: #ffffff;
+    color: #fff;
     font-size: 18px;
     text-transform: uppercase;
 }
@@ -262,11 +262,11 @@ button {
 }
 .login_text {
     font-size: 18px;
-    color: #ffffff;
+    color: #fff;
     padding-right: 30px;
 }
 .login_text a{
-    color: #ffffff;
+    color: #fff;
 }
 .login_text a:hover{
     color: #47a87c;
@@ -294,10 +294,10 @@ button {
 
 .call_text{
     font-size: 18px;
-    color: #ffffff;
+    color: #fff;
 }
 .call_text a{
-    color: #ffffff;
+    color: #fff;
 }
 .call_text a:hover{
     color: #47a87c;
@@ -395,7 +395,7 @@ select.form-control:not([size]):not([multiple]) {
     width: 100%;
     float: left;
     font-size: 20px;
-    color: #ffffff;
+    color: #fff;
     background-color: #32cdee;
     text-align: center;
     padding: 15px 0px;
@@ -403,7 +403,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .Search_bt a:hover {
-    color: #ffffff;
+    color: #fff;
     background-color: #000;
 }
 .browse_text{
@@ -423,7 +423,7 @@ select.form-control:not([size]):not([multiple]) {
 .box_1 {
     width: 10%;
     float: left;
-    background-color: #ffffff;
+    background-color: #fff;
     height: auto;
     padding: 10px 0px 0px 0px;
     box-shadow: 0px 0px 4px 0px;
@@ -537,7 +537,7 @@ select.form-control:not([size]):not([multiple]) {
 .work_main {
     width: 100%;
     float: left;
-    background-color: #ffffff;
+    background-color: #fff;
     border-radius: 10px;
     padding: 75px 30px;
 }
@@ -575,7 +575,7 @@ select.form-control:not([size]):not([multiple]) {
     text-align: center;
     padding-top: 13px;
     font-weight: bold;
-    color: #ffffff;
+    color: #fff;
     height: 58px;
 }
 .number_text a:hover{
@@ -747,7 +747,7 @@ h1.choose_text {
     width: 100%;
     float: left;
     font-size: 40px;
-    color: #ffffff;
+    color: #fff;
     text-transform: uppercase;
 }
 .directory_section2{
@@ -879,10 +879,10 @@ h1.choose_text {
     text-align: center;
     padding: 8px 0px;
     border-radius: 70px;
-    border: 3px solid #ffffff;
+    border: 3px solid #fff;
 }
 .read_bt a:hover{
-    background-color: #ffffff;
+    background-color: #fff;
     color: #000;
 }
 .testimonial_section {
@@ -1033,7 +1033,7 @@ textarea.massage_box::placeholder {
     float: left;
     text-align: center;
     font-size: 22px;
-    color: #ffffff;
+    color: #fff;
     background-color: #32cbec;
     padding: 6px 0px;
     margin-top: 0px;
@@ -1058,7 +1058,7 @@ textarea.massage_box::placeholder {
     width: 100%;
     float: left;
     font-size: 30px;
-    color: #ffffff;
+    color: #fff;
     font-weight: bold;
 }
 .subscribe_middle{
@@ -1136,7 +1136,7 @@ textarea.massage_box::placeholder {
 .copyright_section {
     width: 100%;
     float: left;
-    background-color: #ffffff;
+    background-color: #fff;
     height: auto;
 }
 
