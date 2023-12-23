@@ -310,7 +310,8 @@ button {
 .discover_text{
     width: 100%;
     float: left;
-    font-size: 60px;
+    font-size: 80px;
+    padding-bottom: 50px;
     text-align: center;
     color: #1a1a1a;
 }
