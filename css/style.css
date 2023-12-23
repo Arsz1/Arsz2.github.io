@@ -232,7 +232,8 @@ button {
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
-    background-image: url(../images/banner-bg.png);
+    background-color: #b8860b;
+    padding-bottom: 75px;
 }
 
 .header_main{
